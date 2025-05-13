@@ -1,0 +1,6 @@
+ping 10.1.0.4
+ssh azureuser@20.115.93.57
+
+
+ping 10.2.1.244
+ssh ec2-user@3.139.46.141
